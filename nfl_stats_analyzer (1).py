@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 """
-NFL Stats Analyzer — Real Data Edition
---------------------------------------
-Adds real data ingestion via nfl_data_py and a feature-importance chart.
+NFL Stats Analyzer
 
 New flags:
     --real                 Use nfl_data_py to fetch weekly player stats and schedules
